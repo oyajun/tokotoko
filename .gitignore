@@ -40,3 +40,5 @@ prisma/dev.db
 prisma/migrations*
 
 .idea
+
+.env
