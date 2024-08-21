@@ -16,10 +16,11 @@
     "@mui/icons-material": "^5.15.20",
     "@mui/material": "^5.15.15",
     "@mui/material-nextjs": "^5.15.11",
+    "@mui/x-data-grid": "^7.12.1",
     "@mui/x-date-pickers": "^7.7.1",
     "@prisma/client": "^5.12.1",
-    "axios": "^1.7.2",
     "dayjs": "^1.11.11",
+    "nerdamer": "^1.1.13",
     "next": "^14.2.4",
     "next-auth": "^4.24.7",
     "react": "^18",
@@ -28,6 +29,7 @@
     "react-katex": "^3.0.1",
     "react-latex-next": "^3.0.0",
     "react-mathquill": "^1.0.3",
+    "react-table": "^7.8.0",
     "zustand": "^4.5.2"
   },
   "devDependencies": {
